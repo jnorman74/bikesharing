@@ -65,4 +65,4 @@ Two additional visualizations that I would perform with the dataset would be as 
 
 # Tableau Public
 
-[Click Link to Open Tableau Public Page]("https://public.tableau.com/views/NYCCitibikeBikesharing/NYCStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link")
+[Click Link to Open Tableau Public Page](https://public.tableau.com/views/NYCCitibikeBikesharing/NYCStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
